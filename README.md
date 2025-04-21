@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Macrima](https://github.com/4GeeksAcademy/macrima_final_proyect)
 
-- 🌱 I’m currently learning **Ingles, C++**
+- 🌱 I’m currently learning **English, C++**
 
 - 📫 How to reach me **christian03george@gmail.com**
 
