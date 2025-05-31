@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [Macrima](https://github.com/4GeeksAcademy/macrima_final_proyect)
 
-- 🌱 I’m currently learning **English, C++**
+- 🌱 I’m currently learning **English, C++, PHP, Laravel, and Flutterflow**
+
 
 - 📫 How to reach me **christian03george@gmail.com**
 
